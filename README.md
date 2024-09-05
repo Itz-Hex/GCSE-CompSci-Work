@@ -26,6 +26,8 @@ The repository is divided into folders by topic or assignment. Each folder may c
 
 The project can be run in two ways, locally (requires python 3.12 to be installed, and any associated libraries) or online.
 
+### Locally
+
 1. Clone the repository
    ```bash
    git clone https://github.com/Itz-Hex/GCSE-CompSci-Work.git
@@ -43,6 +45,32 @@ The project can be run in two ways, locally (requires python 3.12 to be installe
    python main.py
    ```
 Note: Some later versions of python/methods of installation may work better if you use the ``py`` command as opposed to ``python`` to run the scripts, so if you are experiencing any issues with running the scripts, try that.
+
+### Online (Codespaces)
+
+1. Ensure you have the repository cloned on GitHub.
+2. Navigate to the repository page on GitHub.
+3. Click the green Code button and select Open with Codespaces.
+4. If you don't have a Codespace yet, create a new one for this repository.
+5. Once the environment loads, navigate to the folder of the project you want to run.
+6. Open the terminal in Codespaces and use the following commands to run the code:
+   ```bash
+   cd foldername
+   ```
+   ```bash
+   python scriptname.py
+   ```
+7. For larger projects:
+   ```bash
+   cd Project_Name
+   ```
+   ```bash
+   python main.py
+   ```
+
+This will allow you to run and test your code directly in the browser without needing a local environment (e.g. when on a chromebook). If you have any issues with this, send me an email and I'll do my best to help.
+
+
 
 ## Topics Covered 
 _(will be updated as projects are added)_
