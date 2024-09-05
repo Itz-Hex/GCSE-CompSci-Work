@@ -61,12 +61,12 @@ Note: Some later versions of python/methods of installation may work better if y
    python scriptname.py
    ```
 7. For larger projects:
-```bash
-cd Project_Name
-```
-```bash
-python main.py
-```
+   ```bash
+   cd Project_Name
+   ```
+   ```bash
+   python main.py
+   ```
 
 This will allow you to run and test your code directly in the browser without needing a local environment (e.g. when on a chromebook). If you have any issues with this, send me an email and I'll do my best to help.
 
