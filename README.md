@@ -78,7 +78,8 @@ This will allow you to run and test your code directly in the browser without ne
 ## Topics Covered 
 _(will be updated as projects are added)_
 
-- **Example 1:** Lorem ipsum dolor sit amet.
+- **OCR Programming Challenges**: Only my more recent completions of some of this challenges are on this repository, to see the others (previously on replit), see [my ReplIT Export repository.](https://github.com/Itz-Hex/ReplitExport)
+- **Searching Algorithms Lesson**: 11 September 2024
 
 ## Contributions
 
