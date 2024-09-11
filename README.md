@@ -10,16 +10,19 @@ The repository is divided into folders by topic or assignment. Each folder may c
 
 ### Folder Example:
 ```plaintext
-📁 Algorithms
-    ├── linear_search.py
-    ├── binary_search.py
-📁 ObjectOrientedProgramming
-    ├── class_example.py
-    ├── inheritance_demo.py
-📁 Project_Name
-    ├── main.py
-    ├── module1.py
-    ├── module2.py
+📁 OCR Challenges
+    ├── 📁 19 - Logic Gate
+         ├── easy.py
+         ├── hard.py
+         ├── test.py
+    ├── 📁 58 - Text Based Game
+         ├── <various classes>.py
+         ├── users.csv
+         ├── main.py
+📁 Searching Algorithms Lesson
+    ├── binarySearchGame.py
+    ├── searchItem.py
+── README.md
 ```
 
 ## How to Run
