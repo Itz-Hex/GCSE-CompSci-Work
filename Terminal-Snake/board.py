@@ -30,3 +30,10 @@ class Board():
         pos_y = pos_y % self.height
         
         self.board[pos_y][pos_x] = self.blank_char
+        
+    def get_pos(self, pos_x, pos_y):
+        pos_x = pos_x % self.width
+        pos_y = pos_y % self.height
+        
+        return self.board[pos_y][pos_x]
+    
